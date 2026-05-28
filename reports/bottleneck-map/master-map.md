@@ -1,6 +1,6 @@
 # 供应链瓶颈总地图（持续更新）
 
-最后更新：2026-05-28 第三十轮扫描（新信号：中国对日镓/锗出口归零量化确认—1-2月镓0 kg vs 2025年同期8,007 kg；日本与美国不同无豁免安排；条目14升级B→B+；无新可投资标的；生成信号扫描报告 10-00-信号扫描.md）
+最后更新：2026-05-28 第三十一轮扫描（补录：韩国锌$74亿田纳西冶炼厂（2029年投产，涵盖锑/镓/锗/铟）写入9b/14条目；USAR钇首次商业生产（2026-04-15，2N纯度，不达半导体级）写入0c2；UAMY竞争风险更新；无新可投资标的；生成09-10-信号扫描.md）
 
 ---
 
@@ -41,6 +41,7 @@
 - **2026-05-27 Trump-Xi北京峰会结果**：白宫称中国"同意解决"钇/钪/钕/铟关切；中国官方声明**未提稀土**；Trump"未带着确认协议离开北京"；中国出口管制制度"将长期存在"（TechTimes）；美国8个月后钇进口量仅17吨（vs控制前333吨，-94.9%）；2家北美Y₂O₃涂层商已暂停生产（Reuters）；价格暴涨约70-140x（数据来源有分歧，保守估约70x）
 - **【2026-05-27 11:06 微小缓和信号】**：2026年2月美国进口钇20吨（vs限制期月均~2.1吨，vs管制前月均~41吨）——出口管制下小幅回升，但仍低50%于管制前水平；可能反映部分许可证被批准。对半导体设备涂层危机无实质性改善，S级分类维持。来源：[Skillings稀土管控分析](https://skillings.net/chinas-export-controls-whats-next-for-rare-earths-gallium-and-germanium-supply-chains/)
 - **截止日期风险**：2026年10月波第二波管制暂停至**2026年11月10日**，届满若重启则半导体设备涂层供应链面临新冲击
+- **【2026-05-28 第三十一轮 供给侧微小进展】USAR钇首次商业生产（2026-04-15）**：USA Rare Earth (USAR) 在英国Cheshire Less Common Metals设施完成首次2N-2N5纯度（99-99.5%）钇金属商业浇铸。**局限性**：①纯度2N-2N5不达半导体设备腔室涂层所需4N（99.99%）规格；②产量极小（首次商业批次）；③USAR市值$5.57B，Q1收入$5.7M，P/S ~244x，不可投资。意义：跨大西洋稀土加工能力建设方向正确，但供给缓解效果极为有限，不改变S级分类。**来源**：[GlobeNewswire 2026-04-15](https://www.globenewswire.com/news-release/2026/04/15/3274302/0/en/USA-Rare-Earth-Completes-First-Commercial-Yttrium-Metal-Production.html)
 
 **瓶颈判定**：
 - 供给集中🔴（99%加工在中国，已实施出口许可管制）
@@ -326,7 +327,16 @@
 
 **警告**：UAMY Q1 2026严重miss（营收$6.8M，净亏$11.3M）；Thompson Falls产能爬坡预计Q3 2026才完成；全年$125M指引执行风险高。
 
-**来源**：[Atlas Institute NATO Ammo Gap](https://atlasinstitute.org/the-strategic-ammunition-gap-natos-industrial-lag-risks-deterrence/) | [Antimony Supply Crisis](https://skillings.net/antimony-supply-crisis-what-it-is-why-it-matters-2026-outlook/) | [UAMY Q1 2026](https://www.stocktitan.net/news/UAMY/united-states-antimony-corporation-reports-first-quarter-2026-7w2rb5fb8cwd.html) | [UAMY FY2025](https://www.accessnewswire.com/newsroom/en/metals-and-mining/united-states-antimony-corporation-reports-fiscal-year-2025-financial-and-operati-1149817)
+**【2026-05-28 第三十一轮 竞争格局补录】韩国锌$74亿田纳西冶炼厂**：
+- Korea Zinc（韩国，全球最大锌冶炼商）与DoD/商务部联合宣布在Clarksville, Tennessee建设综合战略矿产冶炼厂
+- 总投资$74亿（含运营资本），DoD持合资企业40%股权；美国政府贷款$47亿+商务部CHIPS法案补贴$2.1亿
+- **产出矿种**：锌、铅、铜、金、银、**锑、铟、镓、锗**、铋、碲、镉、钯（共13种）
+- 时间线：2026年场地建设启动 → **2029年分阶段商业产出**
+- 年处理原料110万吨，年产成品54万吨
+- **对UAMY的影响**：2029年后锑产出将构成竞争（但UAMY DoD $248M合同锁定至2031年）；2026年4月宣布时UAMY单日跌11%
+- **对近期瓶颈的影响**：2029年前无实质供应，不影响当前A级评级；长期（2029+）添加美国本土锑供给来源
+
+**来源**：[Atlas Institute NATO Ammo Gap](https://atlasinstitute.org/the-strategic-ammunition-gap-natos-industrial-lag-risks-deterrence/) | [Antimony Supply Crisis](https://skillings.net/antimony-supply-crisis-what-it-is-why-it-matters-2026-outlook/) | [UAMY Q1 2026](https://www.stocktitan.net/news/UAMY/united-states-antimony-corporation-reports-first-quarter-2026-7w2rb5fb8cwd.html) | [UAMY FY2025](https://www.accessnewswire.com/newsroom/en/metals-and-mining/united-states-antimony-corporation-reports-fiscal-year-2025-financial-and-operati-1149817) | [Korea Zinc Tennessee 2026-04-02](https://www.upi.com/Top_News/World-News/2026/04/02/skporea-korea-zinc-smelter-tennessee-strategic-materials/4361775134902/) | [Korea Zinc详情 Carbon Credits](https://carboncredits.com/big-bet-bigger-stakes-korea-zincs-7-4-billion-smelter-reshapes-u-s-critical-minerals-supply/)
 
 ---
 
@@ -431,6 +441,8 @@
 
 **当前评级**：**B+级**（日本供应链：实测断供但厂商声称有库存；美国：暂停期内有出口，风险时间窗口：2026-11-27）
 
+**【2026-05-28 第三十一轮 长期供给路径补录】韩国锌Tennessee冶炼厂**：计划产出**镓和锗**（2029年分阶段投产），是2029年后美国本土Ga/Ge供给的重要来源；DoD 40% JV股权背书。不影响当前B+评级（近期2026年日本零进口状态不变），但长期（2029+）该瓶颈将有美国本土供给补充，是缓解信号。**来源**：[Korea Zinc Tennessee](https://www.upi.com/Top_News/World-News/2026/04/02/skporea-korea-zinc-smelter-tennessee-strategic-materials/4361775134902/)
+
 **升级路径**：
 - 日本GaN/GaAs厂商披露库存不足或减产预警 → A级
 - 中美关系再恶化致美国禁令恢复 → A级（年底前风险窗口）
@@ -526,3 +538,4 @@
 | 2026-05-27 第二十八轮扫描 | **细节补录，无新信号，无报告文件** | 覆盖全部五大超级趋势：WF6/NF3临界状态（6-7月，已跟踪）、InP/EML（Digitimes 5/27确认Lumentum-Aixtron MOCVD订单，同一5/19新闻第二来源，非新信号）、变压器（Bloomberg/PwC"5年"系4月旧数据，pv-magazine 5/11的4年仍最新）、Chemring June 2无预告（确认）、Centrus DOE续约无新公告（距6/30约33天）、稀土钇（Trump-Xi峰会"表示关切"无约束性承诺，已记录）、镓/锗（11/27截止无变化）。**新细节补录（Almonty钼矿条目）**：SeAH M&S是SpaceX承包商（此前未记录）；钼矿年收入在地板价$19/lb × 5,600吨满产 = **$234M/年地板价收入**（首次量化）；60年矿山寿命offtake价值$14B+。不影响Almonty ★★评级或June 9 Phase 2投票为关键催化剂的判断。全部S/A/B级瓶颈状态不变。 |
 | 2026-05-27 第二十九轮扫描 | **全面扫描，无新信号，无报告文件** | 覆盖五大超级趋势全部搜索方向（英文+中文）。扫描结果：①WF6临界1-2个月状态确认不变（TrendForce/Central Glass双源已记录）；②Chemring June 2财报无新预告，仅确认AGM January 2026更新为最新公开信息；③InP衬底shortage持续，IntelliEPI CEO Q1 ER"InP shortage is a bottleneck for the entire AI infrastructure"为额外行业来源佐证（非新信号）；④Nittobo T-glass供应紧张确认，扩产2027年H2才落地（已记录）；⑤Almonty June 9 Phase 2投票确认（三重催化剂：Phase 2投票+首批产量数据+新CFO）；⑥Centrus DOE Phase III 6/30到期，8年期选项已存在但DOE尚未宣布行使，无新公告；⑦Ga/Ge/Sb出口禁令暂停确认至2026-11-27；⑧稀土0.1%规则（10月2025管制）暂停确认至2026-11-10（已在0c2条目记录）；⑨Chemring Nobel EU ASAP €66.7M资助为2024/2025旧信息，已知背景；⑩国防弹药链NC缺口>50%、TNT欧洲单一来源——均已跟踪。全部S/A/B级瓶颈状态不变。**无新可投资标的。不生成报告文件。** |
 | 2026-05-28 第三十轮扫描 | **新信号：镓/锗对日断供量化确认，条目14升级B→B+** | ①**条目14（Ga/Ge）重大状态更新**：中国对日镓出口2026年1-2月实测**0 kg**（vs 2025年同期8,007 kg，-100%）；锗同样归零；镓价$2,100/kg（+123% since 2025年初）；日本与美国不同，无11月27日豁免安排；住友/三菱声称库存充足但2个月零进口不可持续。条目14从"B级前瞻"升级为**"B+级（对日已实测断供）"**；②Chemring June 2财报确认无预告（5天后）；③WF6库存临界已入"<4周"窗口，Kanto Denka维持★★★★；④Almonty Phase 2投票June 8-9（11-12天）；⑤Centrus DOE续约33天倒计时无公告；⑥InP/EML/变压器/钨/锑/稀土全部S/A级瓶颈状态不变。**无新可投资标的。生成信号扫描报告：10-00-信号扫描.md** |
+| 2026-05-28 第三十一轮扫描 | **补录：韩国锌$74亿田纳西冶炼厂 + USAR钇首次商业生产** | ①**Korea Zinc Tennessee冶炼厂（2026-04-02宣布，此前扫描遗漏）**：锌/铅/铜/金/银/**锑/铟/镓/锗**等13种战略矿产；DoD 40% JV股权，$47亿政府贷款；2026年场地建设，**2029年分阶段投产**。对锑9b条目（UAMY竞争风险）和Ga/Ge条目14（长期供给缓解路径）均已更新。②**USAR钇首次商业生产（2026-04-15）**：2N-2N5纯度，不达半导体设备4N规格；USAR P/S ~244x不可投资；写入0c2条目。③所有已跟踪S/A/B级瓶颈评级不变。生成信号扫描报告：09-10-信号扫描.md |

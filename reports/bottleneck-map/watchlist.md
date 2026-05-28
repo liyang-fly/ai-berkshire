@@ -1,6 +1,6 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-28 第三十轮扫描（新信号：条目14镓/锗对日断供量化确认，升级B→B+；无watchlist评级变化）
+最后更新：2026-05-28 第三十一轮扫描（补录：UAMY竞争风险—韩国锌$74亿田纳西冶炼厂（2029年含锑产出）正式写入；无watchlist评级变化）
 
 下次复查：**June 2 Chemring半年财报**（**5天后**，最紧迫）；**本周核实Kanto Denka FY2027指引原始公告**（高优先级）；**WF6中断新闻**（<4周临界，随时可能触发）；June 8-9 Almonty Phase 2投票+Sangdong Q2数据；Centrus DOE续约（June 30到期，33天，若June 15前无公告升为实质风险事件）；日本GaN/GaAs厂商库存消耗时间线披露
 
@@ -313,12 +313,18 @@ FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
 - 市场反应：+8-9%（接受解释，注意力放在DoD合同和guidance维持上）
 - 风险点：公司关键产能爬坡期CFO换人，是黄灯信号，但不构成论点颠覆
 
+**【2026-05-28 第三十一轮 竞争风险补录】韩国锌Tennessee冶炼厂**：
+- Korea Zinc将在田纳西州Clarksville建设综合战略矿产冶炼厂，**含锑产出（2029年分阶段投产）**
+- DoD持合资企业40%股权，美国政府贷款$47亿
+- 对UAMY的影响：①短期（2026-2028）：无竞争，UAMY仍是唯一运营中美国锑精炼商；②中期（2029+）：竞争压力出现，但UAMY DoD $248M合同锁定至2031年；③2026年4月宣布时导致UAMY单日跌11%
+- **评级维持★★★**：Korea Zinc是真实的长期竞争者，但2029年前UAMY护城河不受实质影响；Q2 2026财报（8月）仍是最关键验证点
+
 **估值状态**：P/S forward 10x（若$125M指引实现）；黄灯（亏损+forward PS偏高）；最高★★★；10年25xPE退出年化约6%，当前价格无安全边际  
-**信号验证**：✅ DoD $248M五年合同（$85M 2026确认）；✅ 全球锑结构性缺口；✅ 扩产比预期提前；⚠️ Q1严重miss；⚠️ CFO临时离职；❌ 尚无盈利  
+**信号验证**：✅ DoD $248M五年合同（$85M 2026确认）；✅ 全球锑结构性缺口；✅ 扩产比预期提前；⚠️ Q1严重miss；⚠️ CFO临时离职；⚠️ Korea Zinc 2029年竞争；❌ 尚无盈利  
 **催化剂**：Q2 2026财报（8月）为关键验证点；新炉灶7月80%爬坡；锑价走势；DOE $44M资助批复；CFO是否复职  
 **建议动作**：持续跟踪；等Q2财报验证；Q2收入>$25M+毛利率>20%则升级至★★★★  
 **加入日期**：2026-05-26  
-**来源**：[UAMY FY2025](https://www.accessnewswire.com/newsroom/en/metals-and-mining/united-states-antimony-corporation-reports-fiscal-year-2025-financial-and-operati-1149817) | [UAMY Q1 2026](https://www.stocktitan.net/news/UAMY/united-states-antimony-corporation-reports-first-quarter-2026-7w2rb5fb8cwd.html) | [Thompson Falls扩产完成](https://nationaltoday.com/us/mt/thompson-falls/news/2026/04/07/united-states-antimony-secures-248m-defense-contract-expands-antimony-production/) | [水冶设施申请](https://www.stocktitan.net/news/UAMY/united-states-antimony-corporation-announces-new-hydromet-processing-axnl5tzm5xx0.html) | [UAMY临时CFO](https://www.stocktitan.net/news/UAMY/united-states-antimony-announces-shawn-winkler-appointed-as-interim-icdy0i7dmxdm.html)
+**来源**：[UAMY FY2025](https://www.accessnewswire.com/newsroom/en/metals-and-mining/united-states-antimony-corporation-reports-fiscal-year-2025-financial-and-operati-1149817) | [UAMY Q1 2026](https://www.stocktitan.net/news/UAMY/united-states-antimony-corporation-reports-first-quarter-2026-7w2rb5fb8cwd.html) | [Thompson Falls扩产完成](https://nationaltoday.com/us/mt/thompson-falls/news/2026/04/07/united-states-antimony-secures-248m-defense-contract-expands-antimony-production/) | [水冶设施申请](https://www.stocktitan.net/news/UAMY/united-states-antimony-corporation-announces-new-hydromet-processing-axnl5tzm5xx0.html) | [UAMY临时CFO](https://www.stocktitan.net/news/UAMY/united-states-antimony-announces-shawn-winkler-appointed-as-interim-icdy0i7dmxdm.html) | [Korea Zinc $74亿田纳西冶炼厂](https://www.upi.com/Top_News/World-News/2026/04/02/skporea-korea-zinc-smelter-tennessee-strategic-materials/4361775134902/)
 
 ---
 
