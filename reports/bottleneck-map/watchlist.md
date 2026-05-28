@@ -1,8 +1,8 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-28 第三十九轮（约17:00扫描）：无新信号，全部评级不变。本轮之前：第三十八轮（15:30扫描）：UAMY新增商业锑价格承压反向信号（Fastmarkets"ample supply"）。
+最后更新：2026-05-28 第四十轮（17:06扫描）：无新信号，全部评级不变。LightCounting 4月通讯"demand continues to surprise"强化EML/InP S级论点；Baotek已转NE Glass，Nittobo T-glass垄断地位确认不受威胁。本轮之前：第三十九轮（约17:00扫描）：无新信号。
 
-下次复查：**June 2 Chemring半年财报**（**5天后**，最紧迫）；**WF6中断新闻**（<4周临界，随时可能触发）；**June 1** Almonty新CFO Jorge Beristain就职（4天）；**June 8** Almonty Phase 2投票+首批Q2产量数据（11天）；**June 9** Almonty AGM；**Centrus DOE续约（June 30到期，33天，若June 15前无公告升为实质风险事件）**；日本GaN/GaAs厂商库存消耗时间线披露；UAMY 8-K（000110465926062742）内容核实；Nittobo 5:1拆分记录日2026-06-29（32天）
+下次复查：**June 2 Chemring半年财报**（**4天后**，最紧迫）；**WF6中断新闻**（<4周临界，随时可能触发）；**June 1** Almonty新CFO Jorge Beristain就职（4天）；**June 8** Almonty Phase 2投票+首批Q2产量数据（11天）；**June 9** Almonty AGM；**Centrus DOE续约（June 30到期，32天，若June 15前无公告升为实质风险事件）**；日本GaN/GaAs厂商库存消耗时间线披露；UAMY 8-K（000110465926062742）内容核实；Nittobo 5:1拆分记录日2026-06-29（32天）
 
 ---
 
