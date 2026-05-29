@@ -1,8 +1,8 @@
 # 瓶颈猎手观察名单（持续更新）
 
-最后更新：2026-05-29 **第五十一轮（15:06扫描）**：无新信号——全面扫描无新催化剂；WF6临界窗口持续；Nittobo ¥25,310无变化；Chemring June 2（4天）无预警；Centrus DOE续约June 30（32天）无公告；所有watchlist标的评级不变。**不生成文件。** 本轮之前：2026-05-29 **第五十轮（14:06扫描）**：2项增量信号——①**Nittobo（3110.T）2026-05-28收盘约¥22,019触及目标买入区间（¥22,000-24,000）下沿**，今日+14.94%反弹至¥25,310（P/E 23.7x绿灯）；无基本面负面新闻，可能是大盘波动；生成明确标的报告 2026-05-29/14-06-3110.md；②**Almonty（AII）Q1 FY2026 Adj EBITDA首次转正+$6.1M（vs -$2.4M Q1 2025）**，OCF +$9.7M（vs -$4.4M），Sphene Capital新Buy（5/15），Diamond Equity FY2027 EPS上调$1.43→$1.68，股价回调20-25%，Phase 2投票June 8（10天）；P/S约27x仍较高，加入"其他信号"非明确标的。WF6临界窗口持续无中断；Chemring June 2财报3天。所有watchlist标的评级不变。**生成标的报告：2026-05-29/14-06-3110.md**。本轮之前：2026-05-29 **第四十九轮（13:00扫描）**：2项增量信号——①**Lumentum Q3 FY2026一级来源入库**：CEO原话">30%供需缺口且在加剧"，200G EML+128% sequential，$808M +90% YoY，Q4指引$985M（续破纪录）；EML S级逻辑从三方来源升为含一级来源三重交叉验证；②**Space-BACN→DIU"Point Break"采购化**：InP光学终端第三需求向量，无新标的。WF6临界窗口无中断新闻；Chemring H1财报June 2（4天后）。所有watchlist标的评级不变。**生成信号扫描：2026-05-29/13-00-信号扫描.md**。本轮之前：2026-05-29 **第四十八轮（11:10扫描）**：2项增量信号——①**AXT InP产能翻倍目标提前至H2 2026**（此前跟踪为2027年底，实际前移显著；缓解方向积极，S级维持）；②**200G EML缺口率60-70%精确量化**（McKinsey 800G整体40-60%，200G更紧）。WF6仍在临界窗口无breaking news；Almonty新CFO今日就职；Chemring June 2财报3天后。所有watchlist标的评级不变。**生成信号扫描：2026-05-29/11-10-信号扫描.md**。本轮之前：2026-05-29 **第四十七轮（午后完整扫描）**：5项关键确认——①**WF6库存耗尽窗口激活（TODAY=NOW）**：TrendForce+Central Glass+LDeepAI三源确认"5-6月库存耗尽"，今日5/29已进入窗口；Kanto Denka FY2027指引¥95B多渠道确认，前向P/S 1.43x/P/E~19.7x双绿灯；②**Nittobo T-glass"无交期"升级**（比"交期延长"更严峻），花旗预计涨价>25%；③**中国锑/镓/锗暂停令（2025-11-09至2026-11-27）正式补录为UAMY商业价格承压基础原因**（DoD合同不受影响）；④**Chemring H1财报June 2（3天后），NATO 155mm 40K vs 100K月产目标差距独立确认**；⑤**Centrus DOE续约32天倒计时**，历史上6月20日前后宣布，6月15日前无公告则升实质风险。所有watchlist标的评级不变。**生成日报：daily/2026-05-29-pm.md**。本轮之前：2026-05-29 **第四十六轮（10:08扫描）**：①EML/InP S级加缓解时间线风险注（LightCounting 2026中缓解预测+Coherent翻倍执行确认）；②Mach/Exquadrum $50M SRM私有垂直整合并购（首次收录）间接强化CHG逻辑，无上市标的；③WF6今日进入TrendForce"May-June库存耗尽"临界区间，无breaking news；④MIIT稀土执法框架征求意见已截止（5/28），定稿进行中。**所有watchlist标的评级不变**。**生成信号扫描报告：2026-05-29/10-08-信号扫描.md**。本轮之前：2026-05-29 第四十五轮（09:10扫描）：2项新信号（前44轮漏录）——①**White House DPA第303条电网令（2026-04-20）**；②**Nvidia-Corning光纤战略合作（2026-05-06）**。**所有watchlist标的评级不变。生成信号扫描报告：2026-05-29/09-10-信号扫描.md**。本轮之前：2026-05-28 第四十三轮（约19:15扫描）：无新信号。
+最后更新：2026-06-02 **第五十二轮（16:00扫描）**：2项新信号——①**CHG H1 FY2026今日（June 2）发布超预期**：净利润+36% YoY，触发执行 `/investment-team` 催化剂；②**Almonty-SeAH M&S钼矿独家offtake（全新信号）**：年底价收入$235M，前向P/S从~27x降至~11x；Almonty评级**★★→★★★**。WF6临界窗口第3天无中断；Centrus DOE续约June 30（28天）；所有其他标的评级不变。**生成报告：2026-06-02/16-00-CHG.md**。本轮之前：2026-05-29 **第五十一轮（15:06扫描）**：无新信号——全面扫描无新催化剂；WF6临界窗口持续；Nittobo ¥25,310无变化；Chemring June 2（4天）无预警；Centrus DOE续约June 30（32天）无公告；所有watchlist标的评级不变。**不生成文件。** 本轮之前：2026-05-29 **第五十轮（14:06扫描）**：2项增量信号——①**Nittobo（3110.T）2026-05-28收盘约¥22,019触及目标买入区间（¥22,000-24,000）下沿**，今日+14.94%反弹至¥25,310（P/E 23.7x绿灯）；无基本面负面新闻，可能是大盘波动；生成明确标的报告 2026-05-29/14-06-3110.md；②**Almonty（AII）Q1 FY2026 Adj EBITDA首次转正+$6.1M（vs -$2.4M Q1 2025）**，OCF +$9.7M（vs -$4.4M），Sphene Capital新Buy（5/15），Diamond Equity FY2027 EPS上调$1.43→$1.68，股价回调20-25%，Phase 2投票June 8（10天）；P/S约27x仍较高，加入"其他信号"非明确标的。WF6临界窗口持续无中断；Chemring June 2财报3天。所有watchlist标的评级不变。**生成标的报告：2026-05-29/14-06-3110.md**。本轮之前：2026-05-29 **第四十九轮（13:00扫描）**：2项增量信号——①**Lumentum Q3 FY2026一级来源入库**：CEO原话">30%供需缺口且在加剧"，200G EML+128% sequential，$808M +90% YoY，Q4指引$985M（续破纪录）；EML S级逻辑从三方来源升为含一级来源三重交叉验证；②**Space-BACN→DIU"Point Break"采购化**：InP光学终端第三需求向量，无新标的。WF6临界窗口无中断新闻；Chemring H1财报June 2（4天后）。所有watchlist标的评级不变。**生成信号扫描：2026-05-29/13-00-信号扫描.md**。本轮之前：2026-05-29 **第四十八轮（11:10扫描）**：2项增量信号——①**AXT InP产能翻倍目标提前至H2 2026**（此前跟踪为2027年底，实际前移显著；缓解方向积极，S级维持）；②**200G EML缺口率60-70%精确量化**（McKinsey 800G整体40-60%，200G更紧）。WF6仍在临界窗口无breaking news；Almonty新CFO今日就职；Chemring June 2财报3天后。所有watchlist标的评级不变。**生成信号扫描：2026-05-29/11-10-信号扫描.md**。本轮之前：2026-05-29 **第四十七轮（午后完整扫描）**：5项关键确认——①**WF6库存耗尽窗口激活（TODAY=NOW）**：TrendForce+Central Glass+LDeepAI三源确认"5-6月库存耗尽"，今日5/29已进入窗口；Kanto Denka FY2027指引¥95B多渠道确认，前向P/S 1.43x/P/E~19.7x双绿灯；②**Nittobo T-glass"无交期"升级**（比"交期延长"更严峻），花旗预计涨价>25%；③**中国锑/镓/锗暂停令（2025-11-09至2026-11-27）正式补录为UAMY商业价格承压基础原因**（DoD合同不受影响）；④**Chemring H1财报June 2（3天后），NATO 155mm 40K vs 100K月产目标差距独立确认**；⑤**Centrus DOE续约32天倒计时**，历史上6月20日前后宣布，6月15日前无公告则升实质风险。所有watchlist标的评级不变。**生成日报：daily/2026-05-29-pm.md**。本轮之前：2026-05-29 **第四十六轮（10:08扫描）**：①EML/InP S级加缓解时间线风险注（LightCounting 2026中缓解预测+Coherent翻倍执行确认）；②Mach/Exquadrum $50M SRM私有垂直整合并购（首次收录）间接强化CHG逻辑，无上市标的；③WF6今日进入TrendForce"May-June库存耗尽"临界区间，无breaking news；④MIIT稀土执法框架征求意见已截止（5/28），定稿进行中。**所有watchlist标的评级不变**。**生成信号扫描报告：2026-05-29/10-08-信号扫描.md**。本轮之前：2026-05-29 第四十五轮（09:10扫描）：2项新信号（前44轮漏录）——①**White House DPA第303条电网令（2026-04-20）**；②**Nvidia-Corning光纤战略合作（2026-05-06）**。**所有watchlist标的评级不变。生成信号扫描报告：2026-05-29/09-10-信号扫描.md**。本轮之前：2026-05-28 第四十三轮（约19:15扫描）：无新信号。
 
-下次复查（**第五十一轮更新**）：**⚡⚡June 2（4天后）Chemring H1财报**（最紧迫）；**⚡⚡WF6中断新闻**（库存耗尽窗口激活，实时监控）；**🔴Nittobo回调机会**（若再次触及¥22,000-24,000则明确入场信号；5:1拆分记录日June 29，31天）；**⚡本周** Kanto Denka FY2027原始日文TSE公告核实；**⚠️June 8（10天）** Almonty Phase 2扩产股东投票；**⚠️June 9** Almonty AGM + Sangdong Q2首批生产数据；**⚠️June 15（17天）** Centrus DOE续约警戒点 + China MRL生效 + MIIT稀土执法框架定稿；**Centrus DOE续约（June 30，32天）**；**📌Point Break合同授予（DIU近期）**；**⚠️2026-11-27** 中国锑/镓/锗暂停令到期
+下次复查（**第五十二轮更新**）：**✅ CHG H1已发布，立即执行 `/investment-team`**；**⚡⚡WF6中断新闻**（临界窗口第3天，持续实时监控）；**🔴Nittobo回调机会**（当前¥25,310，等回调¥22,000-24,000；5:1拆分记录日June 29，27天）；**⚡⚡June 8（6天）** Almonty Phase 2扩产股东投票（通过则考虑/investment-team）；**⚡⚡June 9** Almonty AGM + Sangdong Q2首批生产数据；**⚠️June 15（13天）** Centrus DOE续约警戒点 + China MRL生效；**Centrus DOE续约（June 30，28天）**；**⚡Kanto Denka FY2027原始日文TSE公告核实**（本周优先）；**📌Point Break合同授予（DIU近期）**；**⚠️2026-11-27** 中国锑/镓/锗暂停令到期
 
 ---
 
@@ -90,9 +90,16 @@
 - ⚠️ 公司体量相对小，单一客户依赖需核实
 - ⚠️ **【2026-05-26 16:12 新增风险项】BAE Systems无NC/NG推进剂技术"预计2026年底达工业成熟"**——若成立，Chemring Nobel的NC护城河有长期时间线风险；但BAE目前仍处pilot阶段，2026年底是BAE自我表述，历史上此类技术突破普遍延期；短期（June 9财报）不影响；中长期（2027+）需监控
 **估值状态**：便宜（P/S~2.6x），估值绿灯  
-**近期催化剂**：⚡ **June 2, 2026 半年财报**（今日2026-05-27起仅**6天**）【⚠️日期修正：此前记录为June 9，实为June 2，来源：Chemring官方financial calendar交叉确认】，订单覆盖率+利润率更新  
-**待验证**：利润率细节（H1 2026 margins）；L3Harris IPO进展；NATO框架合同细节；BAE propellant技术进展  
-**建议动作**：在**June 2**财报前完成 `/investment-team` 深入研究  
+**【2026-06-02 H1 FY2026财报发布（催化剂触发）】**：  
+- ✅ **收入£263.2M**（vs 分析师估值£257.9M，超2.1%）  
+- ✅ **净利润£27.8M**（vs H1 FY2025 £20.4M，**+36% YoY**）  
+- ✅ **EPS 0.13p**（vs 估值0.12p，超+1.60%）  
+- ⚠️ 数据来源：第三方财报聚合数据库（investing.com），待Chemring官方RNS确认具体数字  
+- **意义**：净利润+36%远超收入+2.1%，NC/能量材料涨价已进入利润表，利润率扩张已出现；所有看多逻辑中最关键的"利润率拐点"信号确认
+
+**近期催化剂**：✅ **June 2, 2026 半年财报已发布**——触发watchlist关键验证催化剂  
+**待验证**：官方RNS公告确认具体数字；利润率分部细节；分析师目标价是否更新；BAE propellant技术进展  
+**建议动作**：**立即执行 `/investment-team` 深入研究**（June 2财报数据已具备）  
 **来源**：[Chemring 2025年报](https://www.chemring.com/~/media/Files/C/Chemring-V3/docs/chemring-annual-report-and-accounts-2025-v1.pdf) | [Chemring AGM更新](https://www.chemring.com/media/press-releases/2026/20-02-2026) | [Kyiv Independent 275%扩产](https://kyivindependent.com/like-any-technology-its-a-race-uks-largest-ammo-maker-rebooting-chemistry-to-break-natos-dependence-on-explosive-imports/) | [Rheinmetall抢购NC](https://www.defensenews.com/global/europe/2025/04/07/rheinmetall-secures-nitrocellulose-supply-amid-european-ammo-scramble/)
 
 ---
@@ -346,7 +353,7 @@ FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
 
 ## 观察中（信号强度★★）
 
-### 10. Almonty Industries（TSX:AII / OTC:ALM）★★ 【2026-05-26午后 新增 | 2026-05-26 13:14 叙事升级】
+### 10. Almonty Industries（TSX:AII / OTC:ALM）★★★ 【2026-05-26午后 新增 | 2026-06-02 升级★★→★★★（SeAH M&S钼矿独家offtake）】
 **代码**：AII.TO（TSX）/ ALM（OTC）  
 **瓶颈环节**：西方钨矿供应（S级跨趋势瓶颈——AI+国防+工业）  
 **市值**：C$5.22B（约$3.8B USD）  
@@ -387,7 +394,16 @@ FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
 - 钨价能否维持高位（当前trailing 12月+900%，APT $3,185/MTU）
 - Phase 2（2027年，460,000 MTU/年）推进进度
 
-**评级维持★★**：叙事进一步升级，June 9三重催化剂是近期最重要监控节点；但股价已充分定价已知信息，无安全边际，不追高。Phase 2获批+Sangdong产量超预期 → 升★★★。
+**【2026-06-02 第五十二轮 评级升级★★→★★★：SeAH M&S钼矿独家offtake（全新信号）】**：
+- Sangdong钼矿（AKMC子公司开发，**独立于Phase 2钨矿**）与SeAH M&S签订全矿期（60年）100%产量exclusive offtake
+- SeAH M&S = 韩国最大钼产品处理商、全球第二大钼氧化物冶炼商、SpaceX钢铁供应商
+- 底价 $19.00/磅（扣除冶炼费前）；5,600吨/年满产 = ~$234M/年底价收入
+- 已获全部采矿+环保许可证；预计end-2026开始生产；60年矿山寿命
+- **关键：不依赖Phase 2投票（June 8）**，AKMC独立法律实体+独立采矿权，可单独推进
+- **估值影响**：前向P/S从~27x（仅钨，trailing）降至~**11x**（含钼2027+收入）→ 黄灯（从偏高红线改善）
+- 来源：[Nasdaq公告](https://www.nasdaq.com/press-release/almonty-industries-has-entered-offtake-agreement-seah-group-korean-steel-giant-and) | [Mining.com](https://www.mining.com/almonty-enters-molybdenum-offtake-deal-with-spacex-contractor-seah/)
+
+**评级升★★★**：钼矿deal是实质性新增收入流（底价保护+独家+全矿期），前向P/S改善至11x（黄灯），但仍无盈利、10年25xPE退出无安全边际；升级理由是基本面改善+可投资性提升，而非安全边际已建立。Phase 2投票（June 8）若通过则考虑执行 `/investment-team`。
 **【2026-05-27 午后 钨价分化警示】**：
 - 中国国内APT 2026-05-19已从峰值下跌**55.3%**（至RMB 680,000/吨）
 - 欧洲国际APT仍为**$3,000-3,280/MTU**（较2026年初+241%）
@@ -533,3 +549,5 @@ FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
 | 2026-05-29 第四十六轮 | 全体 | **5项确认；生成daily/2026-05-29-pm.md** | ①WF6库存耗尽窗口TODAY激活（尚无公开中断报道但进入最高风险期，Kanto Denka FY2027指引¥95B多渠道确认前向双绿灯）；②Nittobo T-glass"无交期"（比"交期延长"更严峻），花旗>25%涨价预期；③中国锑/镓/锗暂停令（2025-11-09至2026-11-27）正式补录为UAMY商业承压基础原因；④Aixtron Q2指引€110M确认；⑤InP供需缺口>70%三源核实。所有评级不变 |
 | 2026-05-29 第五十轮（14:06） | 3110.T Nittobo | **🔴 买入区间二次触及（5/28 ¥22,019）→今日反弹+15%至¥25,310（P/E 23.7x绿灯）；生成明确标的报告14-06-3110.md** | 昨日（5/28）收盘约¥22,019触及目标买入区间（¥22,000-24,000）下沿；今日大幅反弹+14.94%至¥25,310；无基本面负面新闻；P/E 23.7x绿灯；5:1拆分记录日31天（June 29）；当前¥25,310略高于目标区间上限¥24,000，等再次回调建仓 |
 | 2026-05-29 第五十轮（14:06） | AII.TO Almonty | **Q1 Adj EBITDA首次转正$6.1M（vs -$2.4M Q1 2025）补录** | OCF +$9.7M（已记录），补充：Adj EBITDA $6.1M正（首次转正），净亏损$5.3M（其中主要是非现金项目削减$25.8M对比前年同期）；与已记录分析师升评（Sphene Buy、Diamond EPS↑）合并，基本面改善信号加强；评级★★维持（P/S约27x trailing、forward约7.2x，不追高） |
+| 2026-06-02 第五十二轮（16:00） | CHG.L Chemring | **⚡ H1 FY2026财报今日发布（催化剂触发），净利润+36% YoY** | 收入£263.2M（超预期£257.9M），净利润£27.8M（vs H1 FY2025 £20.4M，+36%），EPS 0.13p（超0.12p）；净利润增速远超收入，NC/能量材料涨价已进入利润表，利润率拐点信号确认；数据来自第三方财报数据库，待官方RNS确认；**立即执行 `/investment-team`**；生成2026-06-02/16-00-CHG.md |
+| 2026-06-02 第五十二轮（16:00） | AII.TO Almonty | **⬆️ 评级★★→★★★：SeAH M&S钼矿独家offtake（全新信号首次收录）** | Sangdong钼矿全矿期（60年）100%产量独家offtake；SeAH M&S（韩国最大钼处理商/SpaceX供应商）；底价$19.00/磅，5,600吨/年，年底价收入~$235M；already fully permitted；end-2026投产；**独立于Phase 2投票（AKMC独立子公司）**；前向P/S从~27x降至~11x（黄灯改善）；钼矿deal首次正式量化并收录watchlist；评级升★★★ |
