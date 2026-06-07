@@ -305,6 +305,13 @@ FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
 **建议**：等SAMR审批结果；若获批且股价回调至分析师目标区间（$100-110），则评估是否执行 `/investment-team`；当前价格不追高。  
 **来源**：[ACLS Q1 2026 SEC Filing](https://www.sec.gov/Archives/edgar/data/0001113232/000110465926057147/tm2613844d1_ex99-1.htm) | [合并联合声明](https://investor.axcelis.com/news-releases/news-release-details/axcelis-technologies-and-veeco-instruments-combine-creating)
 
+**【2026-06-07 22:00 更新】**
+- 市值更新：~$5.1B（$166.71，6/4）；PE ~49.6x；Q1实际收入$199M，Q2指引~$205M（温和增长）
+- SAMR具体审查角度确认：中国正以"工具打包销售是否不利于中国国内设备商"为由审查，不仅是常规反垄断检查
+- 其余管辖全部清关：HSR（美国）、爱尔兰、德国、英国均已批准
+- 现状：SAMR是**唯一剩余障碍**，预计 H2 2026 裁决
+- 风险场景：若 SAMR 因半导体设备地缘政治顾虑拒批（概率估约25%），交易破裂，ACLS 回归独立 SiC 离子注入标的，股价或短期下跌；但 SiC 需求逻辑不受影响
+
 ---
 
 ### 7. Lumentum (LITE，纳斯达克) ★★ 【2026-06-07 12:08 估值红灯降级：10年退出需31% CAGR】
@@ -353,6 +360,7 @@ FY2026全年业绩（2026-05-15发布）同时披露FY2027经营指引：
 - ⚠️ **Q1 2026净利润大幅下滑（2026-05-26新增）**：收入$76.7M(+5% YoY)，但净利润从$27.2M降至$10M——同比-63%。需关注盈利质量下降是否结构性
 - ⚠️ **【2026-05-27 午后 紧急：DOE Phase III到期6月30日（约34天）】**：DOE HALEU Phase III合同到期日2026-06-30。若无续约公告则HALEU生产可能暂停，影响$450-500M年收入指引。**本周必须搜索DOE续约公告**。ASP Isotopes（ASPI）2028年HALEU交付MOU为信号，但不影响Centrus近期垄断
 - ⚠️ **【2026-05-27 第23轮 续约无新公告——倒计时33天】**：专项搜索确认Phase III $110M到期6/30/2026；DOE持有后续8年期权（未行使）；"2年选项"是最近的分割点；若6月中下旬仍无公告则进入实质警戒状态；来源：[PR Newswire](https://www.prnewswire.com/news-releases/centrus-energy-secures-contract-extension-from-department-of-energy-to-continue-haleu-production-302486995.html)
+  - ⚠️ **【2026-06-07 22:00 催化剂倒计时——23天】**：6/30 HALEU生产合同到期进一步临近。DOE 2年期选择权（Phase IV：2026-07-01→2028-06-30）**至今未行使**。$9亿Piketon商业扩产任务令（1月签）独立推进，过渡期有支撑。**近期催化剂**：若6/30前后DOE正式宣布行使2年选项→支持升级至★★★★。合同结构：Phase III（$110M，1年，到期6/30）→Phase IV（2年选项，待行使）→$9亿商业规模任务令（并行）。[来源：ANS Nuclear 2025-06-25](https://www.ans.org/news/2025-06-25/article-7134/doe-extends-centruss-haleu-production-contract-by-one-year/)
 - ⚠️ SMR 商业化时间线多次延迟（NuScale UAMPS 项目已取消）
 - ❌ 尚无大型商业客户签约（TerraPower、Kairos 等仍在建设阶段）
 - ⚠️ **【2026-05-27 新增】ASP Isotopes (ASPI) 竞争者进入**：子公司QLE于5月11日与欧洲核技术公司签非约束性HALEU供应MOU，2028年开始交付；ASPI市值~$664M，Q1 2026收入仅$4.2M（核医学为主，无HALEU商业收入），P/S~28x，仍属开发阶段。Centrus为唯一当前具备商业HALEU生产的西方公司，近期垄断地位不受实质影响；2028年后竞争格局有所变化，需持续监控。
