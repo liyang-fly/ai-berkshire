@@ -1065,3 +1065,7 @@ AI芯片（GPU/HBM）
 | 2026-06-09 20:15 | **Baotek(5340.TWO)新候选** | "台湾版Nittobo"、NE Glass生产商；市值~$760M；45%产能已转向AI高端玻纤；Nittobo Taiwan纱厂战略合作；候选待估值验证 |
 | 2026-06-09 20:15 | **ALM Phase 2仍待公告** | UTC 12:12未见SEC 6-K；维持★★★，等6/10 EST早盘前 |
 | 2026-06-09 18:30 | **LEU无新消息** | Option 1b 6/30截止，无新公告；🔴最高监控优先级维持 |
+| 2026-06-09 21:30 | **光纤（B级11c）Amazon验证升温** | Amazon-Corning多十亿美元多年光纤协议（6月8日）：Corning第三笔2026 AI超大合同（Meta $60亿+Nvidia $32亿+Amazon金额未披露）；NextWeb"Amazon's Corning deal shows fibre is AI's new bottleneck"；Corning(GLW)市值$154B/forward PE 53x，超出框架；B级11c瓶颈论点主流验证但无新小市值标的 |
+| 2026-06-09 21:30 | **ALM Phase 2 AGM召开，结果待公告** | Phase 2 AGM已于EST 10:00（CST 22:00）召开；截至CST 21:30仍未见SEC 6-K结果公告；预计6/10 EST早盘前；维持★★★ |
+| 2026-06-09 21:30 | **Baotek候选估值补充** | 2025 TTM营收$73M确认（Pitchbook/Yahoo Finance）；市值~$678M；PS ~9.3x🟡边界绿灯；PE ~87x🟡黄灯；NE glass转型45%产能；日均成交额未验证；正式名单条件仍未全部满足 |
+| 2026-06-09 21:30 | **变压器/GOES瓶颈背景补充** | 交期延至4年（pv-magazine 2026-05-11）；Cleveland-Cliffs(CLF)为唯一美国GOES生产商+投$1.5亿建新变压器组装厂；CLF市值$7.6B/PS 0.38x/GAAP亏损/GOES纯正度<30%，不符合投资门槛；GOES单独列为变压器S级瓶颈的L3子供给来源 |
