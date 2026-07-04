@@ -240,7 +240,7 @@ For Claude Code users:
 npm install -g @anthropic-ai/claude-code
 ```
 
-For Codex users:
+For Codex users on macOS / Linux:
 
 ```bash
 # macOS / Linux
@@ -274,7 +274,7 @@ Warning: this disables Claude Code's tool-approval guardrails. Use it only when 
 
 ### 2. Install Skills
 
-For Claude Code users:
+For Claude Code users on macOS / Linux:
 
 ```bash
 # Clone the repository
@@ -285,7 +285,15 @@ cd ai-berkshire
 ./scripts/install-claude-commands.sh
 ```
 
-For Codex users:
+For Claude Code users on Windows PowerShell / Command Prompt:
+
+```bat
+git clone https://github.com/xbtlin/ai-berkshire.git
+cd ai-berkshire
+.\scripts\install-claude-commands.bat
+```
+
+For Codex users on macOS / Linux:
 
 ```bash
 # Clone the repository
@@ -298,6 +306,17 @@ cd ai-berkshire
 # Optional: install Codex slash prompts to ~/.codex/prompts
 # for a Claude Code-like /investment-research entry point
 ./scripts/install-codex-prompts.sh
+```
+
+For Codex users on Windows PowerShell / Command Prompt:
+
+```bat
+git clone https://github.com/xbtlin/ai-berkshire.git
+cd ai-berkshire
+.\scripts\install-codex-skills.bat
+
+REM Optional: install Codex slash prompts
+.\scripts\install-codex-prompts.bat
 ```
 
 The repository maintains three entry points: `skills/*.md` are the Claude Code command sources; `codex-skills/*/SKILL.md` are Codex skill packages generated from `skills/*.md` by `scripts/sync-codex-skills.py`; `codex-prompts/*.md` are an optional Codex slash-prompt compatibility layer.
