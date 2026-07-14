@@ -1,0 +1,23 @@
+{
+  "version": "2.0",
+  "last_updated": "20260712",
+  "entities": {
+    "商业航天": {
+      "folder": "商业航天",
+      "type": "行业",
+      "note_count": 1,
+      "latest": "20260712",
+      "notes": [
+        {
+          "file": "20260712-长征十号乙可回收火箭首次实验成功.md",
+          "date": "20260712",
+          "title": "长征十号乙可回收火箭首次实验成功",
+          "dimensions": ["行业趋势", "投资逻辑链", "竞争格局", "产业链"],
+          "framework": "李录",
+          "info_type": "一手观察",
+          "credibility": "中"
+        }
+      ]
+    }
+  }
+}
