@@ -400,14 +400,16 @@
 
 ```
 reports/{公司名}/
-├── {公司名}-earnings-{期间}.md           ← 最终公众号文章（定稿）
-├── {公司名}-earnings-{期间}-研究底稿.md   ← 四大师合成研究报告（自用）
-├── {公司名}-earnings-{期间}-段永平.md     ← 生意本质解读
-├── {公司名}-earnings-{期间}-巴菲特.md     ← 财务质量审计
-├── {公司名}-earnings-{期间}-芒格.md       ← 竞争格局解读
-├── {公司名}-earnings-{期间}-李录.md       ← 风险信号分析
-└── {公司名}-earnings-{期间}-读者评审.md   ← 读者评审报告
+├── {公司名}-earnings-{YYYYMMDD}.md           ← 最终公众号文章（定稿）
+├── {公司名}-earnings-{YYYYMMDD}-研究底稿.md   ← 四大师合成研究报告（自用）
+├── {公司名}-earnings-{YYYYMMDD}-段永平.md     ← 生意本质解读
+├── {公司名}-earnings-{YYYYMMDD}-巴菲特.md     ← 财务质量审计
+├── {公司名}-earnings-{YYYYMMDD}-芒格.md       ← 竞争格局解读
+├── {公司名}-earnings-{YYYYMMDD}-李录.md       ← 风险信号分析
+└── {公司名}-earnings-{YYYYMMDD}-读者评审.md   ← 读者评审报告
 ```
+
+**说明**：`{YYYYMMDD}` 为报告生成当日日期。报告内需注明所分析的财报期间（如 2025Q4）。
 
 ## 数据抽检（准出流程）
 
@@ -415,7 +417,7 @@ reports/{公司名}/
 
 ```bash
 python3 tools/report_audit.py extract \
-  --report reports/{公司名}/{公司名}-earnings-{期间}.md
+  --report reports/{公司名}/{公司名}-earnings-{YYYYMMDD}.md
 
 python3 tools/report_audit.py verdict \
   --results '<填好的JSON>' \
