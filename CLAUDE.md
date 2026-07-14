@@ -11,6 +11,8 @@ GitHub: xbtlin/ai-berkshire
 skills/          — 投研 Skill 定义（.md），复制到 ~/.claude/commands/ 使用
 tools/           — 辅助工具（financial_rigor.py 精确计算）
 reports/         — 投资研究报告输出
+data/            — 数据文件
+  local-notes/   — 本地信息源（一手观察、产品体验、人脉信息等）
 assets/          — 图片等静态资源
 ```
 
@@ -52,6 +54,7 @@ reports/
 | /thesis-tracker | `{公司名}-thesis.md`（长期维护） | `reports/腾讯/腾讯-thesis.md` |
 | /portfolio-review | `portfolio-latest.md`（根目录，持续更新） | `reports/portfolio-latest.md` |
 | /management-deep-dive | `{公司名}-management-{YYYYMMDD}.md` | `reports/腾讯/腾讯-management-20260409.md` |
+| /local-info | `data/local-notes/{实体名}/{YYYYMMDD}-{主题}.md` | `data/local-notes/腾讯/20260712-微信支付体验.md` |
 
 ## /investment-team 文件结构
 
