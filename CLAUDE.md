@@ -89,7 +89,7 @@ reports/{公司名}/
 
 ## GitHub 操作
 
-- 本地克隆路径：`~/ai-berkshire/`
+- 本地克隆路径：以当前仓库根目录为准
 - 远程仓库：`https://github.com/xbtlin/ai-berkshire.git`
 - 推送前先 `git pull --rebase origin main`（远程经常有新提交）
 - commit message 用中文，描述清楚改了什么
@@ -98,8 +98,7 @@ reports/{公司名}/
 ## 常用命令
 
 ```bash
-# 推送报告到GitHub
-cd ~/ai-berkshire
+# 推送报告到GitHub（在仓库根目录执行）
 git add reports/xxx.md
 git commit -m "添加xxx报告"
 git pull --rebase origin main

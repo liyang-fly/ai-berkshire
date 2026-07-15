@@ -32,10 +32,10 @@ This skill is generated from `skills/industry-research.md` so Claude Code and Co
 
 在开始网络数据收集前，**必须先检索本地信息源**：
 
-**本地信息源目录**：`~/ai-berkshire/data/local-notes/`
+**本地信息源目录**：`data/local-notes/`
 
 **检索步骤**：
-1. 读取 `~/ai-berkshire/data/local-notes/index.json`
+1. 读取 `data/local-notes/index.json`
 2. **检索行业笔记**：匹配 `entities[{行业名}]`，读取所有 `.md` 文件
 3. **检索相关公司笔记**：筛选 `type: "公司"` 且属于该行业的实体，读取其笔记
 4. **按分析维度分类，填入对应研究模块**：
@@ -289,7 +289,7 @@ This skill is generated from `skills/industry-research.md` so Claude Code and Co
 3. 产业链全景图用代码块的文本图表示
 4. 每个环节至少分析2-3家头部公司
 5. 全球公司扫描要尽可能完整（A股/港股/美股/国际）
-6. 最终将完整报告写入 `~/ai-berkshire/reports/{行业名}-industry-{YYYYMMDD}.md`
+6. 最终将完整报告写入 `reports/{行业名}-industry-{YYYYMMDD}.md`
    - **必须包含生成日期**：文件名中的 `{YYYYMMDD}` 为报告生成当日日期
    - 示例：`reports/核电-industry-20260712.md`
 7. 结论要明确，给出具体的标的、仓位和价格区间建议
@@ -301,13 +301,13 @@ This skill is generated from `skills/industry-research.md` so Claude Code and Co
 
 ```bash
 # Step 1 — 提取抽检清单（15%随机抽样）
-python3 ~/ai-berkshire/tools/report_audit.py extract \
+python3 tools/report_audit.py extract \
   --report <报告文件路径>
 
 # Step 2 — 对清单每项从可靠信源取数（参见 skills/financial-data.md）
 
 # Step 3 — 输出准出/打回判决
-python3 ~/ai-berkshire/tools/report_audit.py verdict \
+python3 tools/report_audit.py verdict \
   --results '<填好的JSON>' \
   --report <报告文件名>
 ```

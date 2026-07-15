@@ -25,10 +25,10 @@ This skill is generated from `skills/investment-research.md` so Claude Code and 
 
 在开始网络数据收集前，**必须先检索本地信息源**，充分利用已积累的一手资料和主观判断：
 
-**本地信息源目录**：`~/ai-berkshire/data/local-notes/`
+**本地信息源目录**：`data/local-notes/`
 
 **检索步骤**：
-1. 读取 `~/ai-berkshire/data/local-notes/index.json`
+1. 读取 `data/local-notes/index.json`
 2. **检索公司笔记**：匹配 `entities[{公司名}]`，读取所有 `.md` 文件
 3. **检索相关行业笔记**：筛选 `type: "行业"` 且与目标公司业务相关的实体，读取其笔记
 4. **按分析维度分类，填入对应研究模块**：
@@ -250,7 +250,7 @@ python3 tools/financial_rigor.py three-scenario \
 1. 所有分析必须有数据支撑，附数据来源
 2. 使用 Markdown 表格呈现关键数据
 3. 每个模块末尾必须有对应大师的"追问"
-4. 最终将完整报告写入 `~/ai-berkshire/reports/{公司名}/{公司名}-research-{YYYYMMDD}.md`
+4. 最终将完整报告写入 `reports/{公司名}/{公司名}-research-{YYYYMMDD}.md`
    - **必须包含生成日期**：文件名中的 `{YYYYMMDD}` 为报告生成当日日期（如 `20260712`）
    - 如果 `reports/{公司名}/` 目录不存在，先创建目录
    - 示例：`reports/腾讯/腾讯-research-20260712.md`

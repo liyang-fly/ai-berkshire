@@ -5,7 +5,7 @@ argument-hint: $ARGUMENTS
 
 Use the installed AI Berkshire Codex skill `thesis-tracker` for this request.
 
-If the skill is not already loaded, read and follow `~/ai-berkshire/codex-skills/thesis-tracker/SKILL.md`.
+If the skill is not already loaded, read and follow `codex-skills/thesis-tracker/SKILL.md` from the repository root.
 
 User arguments:
 $ARGUMENTS

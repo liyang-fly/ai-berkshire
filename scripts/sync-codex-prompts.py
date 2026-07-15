@@ -50,7 +50,7 @@ def prompt_for(source: Path) -> str:
         "---\n\n"
         f"Use the installed AI Berkshire Codex skill `{name}` for this request.\n\n"
         f"If the skill is not already loaded, read and follow "
-        f"`~/ai-berkshire/codex-skills/{name}/SKILL.md`.\n\n"
+        f"`codex-skills/{name}/SKILL.md` from the repository root.\n\n"
         "User arguments:\n"
         "$ARGUMENTS\n"
     )

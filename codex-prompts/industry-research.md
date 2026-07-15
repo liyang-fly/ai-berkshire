@@ -5,7 +5,7 @@ argument-hint: $ARGUMENTS
 
 Use the installed AI Berkshire Codex skill `industry-research` for this request.
 
-If the skill is not already loaded, read and follow `~/ai-berkshire/codex-skills/industry-research/SKILL.md`.
+If the skill is not already loaded, read and follow `codex-skills/industry-research/SKILL.md` from the repository root.
 
 User arguments:
 $ARGUMENTS

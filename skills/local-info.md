@@ -126,7 +126,7 @@
 
 ## 索引文件格式
 
-`~/ai-berkshire/data/local-notes/index.json`：
+`data/local-notes/index.json`：
 
 ```json
 {

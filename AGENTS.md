@@ -34,8 +34,8 @@ validation tools. Keep compatibility with both Claude Code and Codex users.
 - For Codex-only hand-written packages under `codex-skills/`, keep them clearly
   marked as Codex-only and do not create a same-named `skills/*.md` file unless
   intentionally adopting the workflow for Claude Code too.
-- Keep tool paths compatible with the documented checkout path:
-  `~/ai-berkshire/tools/...`
+- Prefer repo-relative tool paths such as `tools/financial_rigor.py`; avoid
+  hard-coded checkout paths in workflow text.
 - Keep `CLAUDE.md` for Claude Code behavior and this `AGENTS.md` for Codex
   behavior.
 
