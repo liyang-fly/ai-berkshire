@@ -308,6 +308,14 @@ cd ai-berkshire
 ./scripts/install-codex-prompts.sh
 ```
 
+仅在当前仓库启用 `local-info`（不写入全局 skills）：
+
+```bash
+./scripts/install-traex-local-info.sh
+```
+
+该脚本只会把 `local-info` 生成到当前仓库的 `.trae/skills/local-info/SKILL.md`，适合你只希望在 `ai-berkshire` 目录里使用这个技能的场景。
+
 Codex 用户安装（Windows PowerShell / Command Prompt）：
 
 ```bat

@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "last_updated": "20260712",
+  "last_updated": "20260720",
   "entities": {
     "商业航天": {
       "folder": "商业航天",
@@ -16,6 +16,23 @@
           "framework": "李录",
           "info_type": "一手观察",
           "credibility": "中"
+        }
+      ]
+    },
+    "锂电池行业": {
+      "folder": "锂电池行业",
+      "type": "行业",
+      "note_count": 1,
+      "latest": "20260720",
+      "notes": [
+        {
+          "file": "20260720-锂电池消费税政策调整.md",
+          "date": "20260720",
+          "title": "锂电池消费税政策调整",
+          "dimensions": ["行业趋势", "风险", "投资逻辑链"],
+          "framework": "李录",
+          "info_type": "阅读笔记",
+          "credibility": "高"
         }
       ]
     }

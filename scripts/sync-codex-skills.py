@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Generate Codex skills from AI Berkshire Claude command files."""
+"""Generate skill packages from AI Berkshire Claude command files."""
 
 from __future__ import annotations
 
+import argparse
 import re
-import sys
 from pathlib import Path
 
 
@@ -89,44 +89,101 @@ def codex_body(name: str, source_name: str, source_text: str) -> str:
     return note + body.rstrip() + "\n"
 
 
-def main() -> None:
-    check = "--check" in sys.argv[1:]
-    unknown_args = [arg for arg in sys.argv[1:] if arg != "--check"]
-    if unknown_args:
-        joined = ", ".join(unknown_args)
-        raise SystemExit(f"Unknown argument(s): {joined}")
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Generate skill packages from skills/*.md."
+    )
+    parser.add_argument(
+        "--check",
+        action="store_true",
+        help="Verify generated output is current without rewriting files.",
+    )
+    parser.add_argument(
+        "--skill",
+        dest="skills",
+        action="append",
+        help="Only sync the named skill. Repeat to sync multiple skills.",
+    )
+    parser.add_argument(
+        "--output-dir",
+        help="Write generated skills under this directory. Relative paths resolve from the repo root.",
+    )
+    return parser.parse_args()
 
-    if not check:
-        CODEX_SKILLS.mkdir(exist_ok=True)
+
+def resolve_output_dir(raw_output_dir: str | None) -> Path:
+    if raw_output_dir is None:
+        return CODEX_SKILLS
+
+    output_dir = Path(raw_output_dir)
+    if not output_dir.is_absolute():
+        output_dir = ROOT / output_dir
+    return output_dir
+
+
+def describe_path(path: Path) -> str:
+    try:
+        return str(path.relative_to(ROOT))
+    except ValueError:
+        return str(path)
+
+
+def collect_sources(selected_skills: set[str] | None) -> list[Path]:
+    sources: list[Path] = []
+    for source in sorted(CLAUDE_SKILLS.glob("*.md")):
+        if selected_skills is not None and source.stem not in selected_skills:
+            continue
+        sources.append(source)
+
+    if selected_skills is not None:
+        found = {source.stem for source in sources}
+        missing = sorted(selected_skills - found)
+        if missing:
+            joined = ", ".join(missing)
+            raise SystemExit(f"Unknown skill(s): {joined}")
+
+    return sources
+
+
+def main() -> None:
+    args = parse_args()
+    output_dir = resolve_output_dir(args.output_dir)
+    selected_skills = set(args.skills) if args.skills else None
+    sources = collect_sources(selected_skills)
+
+    if not args.check:
+        output_dir.mkdir(parents=True, exist_ok=True)
 
     count = 0
     stale: list[str] = []
-    for source in sorted(CLAUDE_SKILLS.glob("*.md")):
+    for source in sources:
         name = source.stem
         source_text = source.read_text(encoding="utf-8")
-        target_dir = CODEX_SKILLS / name
+        target_dir = output_dir / name
         target = target_dir / "SKILL.md"
         content = metadata_for(name, source.name, source_text) + codex_body(
             name, source.name, source_text
         )
-        if check:
+        if args.check:
             if not target.exists() or target.read_text(encoding="utf-8") != content:
-                stale.append(str(target.relative_to(ROOT)))
+                stale.append(describe_path(target))
         else:
             target_dir.mkdir(parents=True, exist_ok=True)
             target.write_text(content, encoding="utf-8")
         count += 1
 
-    if check:
+    output_label = describe_path(output_dir)
+
+    if args.check:
         if stale:
-            print("Codex skills are out of date:")
+            print("Skill packages are out of date:")
             for path in stale:
                 print(f"  {path}")
             raise SystemExit(1)
-        print(f"Checked {count} Codex skills in {CODEX_SKILLS.relative_to(ROOT)}")
+        print(f"Checked {count} skill package(s) in {output_label}")
         return
 
-    print(f"Generated {count} Codex skills in {CODEX_SKILLS.relative_to(ROOT)}")
+    print(f"Generated {count} skill package(s) in {output_label}")
 
 
 if __name__ == "__main__":
